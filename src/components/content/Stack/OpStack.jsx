@@ -2,7 +2,7 @@ import React from "react";
 
 const OpStack = () => {
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div className="container mx-auto p-4 h-screen overflow-x-hidden overflow-y-auto">
       <h1 className="text-3xl font-bold mb-4">Basic Operations in Stack</h1>
       <p className="text-lg mb-4">
         A stack is a linear data structure in which elements are added and

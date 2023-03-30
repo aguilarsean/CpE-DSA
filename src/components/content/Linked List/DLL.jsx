@@ -2,7 +2,7 @@ import React from "react";
 
 const DLL = () => {
   return (
-    <div className="container mx-auto p-4">
+    <div className="container mx-auto p-4 h-screen overflow-x-hidden overflow-y-auto">
       <h1 className="text-4xl font-bold mb-4">Doubly Linked List</h1>
       <p className="mb-4">
         A doubly linked list is a dynamic data structure in which each node
