@@ -58,7 +58,7 @@ const IntroArray = () => {
           </p>
         </div>
 
-        <p className="mb-4">
+        <p className="mt-10 mb-4">
           In this course, we will explore various operations that can be
           performed on arrays, such as insertion, deletion, sorting, and
           searching.
